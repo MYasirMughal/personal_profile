@@ -17,13 +17,13 @@ const Profile: NextPage = () => {
               Graduate Research Associate
             </h2>
             <div className="leading-sm inline-flex items-center rounded-full border bg-sky-200 px-3 py-1 text-xs uppercase text-sky-700">
-              XAI
+              AWS Cloud Solution Architect
             </div>
             <div className="leading-sm inline-flex items-center rounded-full border bg-green-200 px-3 py-1 text-xs  uppercase text-green-700">
-              HCI
+              Cisco Certified Network Associate
             </div>
             <div className="leading-sm inline-flex items-center rounded-full border bg-violet-200 px-3 py-1 text-xs uppercase text-violet-700">
-              Visual Analytics
+              Full Stack Developer
             </div>
             <p className="py-2 text-justify font-light text-gray-600">
               I am currently a Ph.D. candidate in computer science at{' '}
