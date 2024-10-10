@@ -12,7 +12,7 @@ const Profile: NextPage = () => {
         <div className="grid grid-cols-5">
           <div></div>
           <div className="col-span-4">
-            <h1 className="text-4xl font-light">Tiankai Xie</h1>
+            <h1 className="text-4xl font-light">M Yasir Mughal</h1>
             <h2 className="py-2 text-lg font-light text-gray-500">
               Graduate Research Associate
             </h2>
