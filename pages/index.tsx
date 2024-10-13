@@ -139,7 +139,7 @@ const Home: NextPage = () => {
             </p>
 
    <div className="md: pl-4 text-left sm:pl-4 sm:text-left lg:pr-4 lg:text-right">
-            <p className="py-4 text-xs font-light">Aug. 2015 - May 2017</p>
+            <p className="py-4 text-xs font-light">Aug. 2017 - May 2022</p>
           </div>         
           </div>
 
@@ -151,7 +151,7 @@ const Home: NextPage = () => {
             Hope Intermediate College, Pakistan{' '}
             </h4>
 <div className="md: pl-4 text-left sm:pl-4 sm:text-left lg:pr-4 lg:text-right">
-            <p className="py-4 text-xs font-light">Sep. 2011 - July 2015</p>
+            <p className="py-4 text-xs font-light">Jan. 2011 - Dec. 2012</p>
             
           </div>
 
