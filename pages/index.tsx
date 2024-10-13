@@ -81,7 +81,7 @@ const Home: NextPage = () => {
                 <span className="pl-1">
                   <a
                     className="text-sm font-light text-sky-700"
-                    href="https://www.linkedin.com/in/myasirmughal/"
+                    href="https://www.linkedin.com/in/m-yasir-mughal/"
                   >
                     @myasirmughal
                   </a>
@@ -95,7 +95,7 @@ const Home: NextPage = () => {
                 <span className="pl-1">
                   <a
                     className="text-sm font-light text-sky-700"
-                    href="/PDF/Tiankai_Xie_CV.pdf"
+                    href="#"
                   >
                     CV.pdf
                   </a>
