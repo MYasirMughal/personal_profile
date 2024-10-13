@@ -82,9 +82,9 @@ const Home: NextPage = () => {
                 <span className="pl-1">
                   <a
                     className="text-sm font-light text-sky-700"
-                    href="https://www.linkedin.com/in/tiankaixie/"
+                    href="https://www.linkedin.com/in/myasirmughal/"
                   >
-                    @tiankaixie
+                    @myasirmughal
                   </a>
                 </span>
               </div>
