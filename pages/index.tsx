@@ -41,48 +41,11 @@ const Home: NextPage = () => {
                 {' '}
                 Virtual University of Pakistan
               </a>
-              . My research is to increase the transparency and interpretability
-              of machine learning models by designing and developing interactive
-              visual analytics systems that can facilitate users to explore and
-              discover potential vulnerabilities of those models in terms of
-              adversarial machine learning, graph mining sensitivity, as well as
-              algorithmic fairness.
+             . As a Full Stack Developer, I have expertise in a wide array of technologies including HTML, CSS (with frameworks like Bootstrap and Tailwind CSS), JavaScript (specializing in ReactJS, NextJS, and NodeJS), PHP, and ASP.Net with C#. I am also proficient in C/C++, Python, and cloud architecture as an AWS Solutions Architect. Additionally, I hold a CCNA qualification, demonstrating a strong foundation in networking. My diverse technical skill set enables me to handle both front-end and back-end development, offering scalable and efficient solutions.
             </p>
-            <p className="text-justify font-light text-gray-600">
-              At Arizona State University, I work with Dr.{' '}
-              <a
-                className="text-sky-700"
-                href="http://rmaciejewski.faculty.asu.edu/"
-              >
-                Ross Maciejewski
-              </a>{' '}
-              as a member of the
-              <a href="http://vader.lab.asu.edu/"> VADER lab</a>. My research is
-              supported by the U.S. Department of Homeland Security and the{' '}
-              <a
-                className="text-sky-700"
-                href="https://beta.nsf.gov/funding/opportunities/nsf-program-fairness-artificial-intelligence-collaboration-amazon"
-              >
-                National Science Foundation Program on Fairness in AI in
-                collaboration with Amazon
-              </a>
-              .
-            </p>
+
             <div className="container flex justify-between py-4">
-              <div>
-                <img
-                  className="inline w-6"
-                  src="https://img.icons8.com/color/48/000000/google-scholar--v3.png"
-                />
-                <span className="pl-1">
-                  <a
-                    className="text-sm font-light text-sky-700"
-                    href="https://scholar.google.com/citations?user=iGRSrJUAAAAJ&hl=en&inst=1960582506653781529&oi=ao"
-                  >
-                    Scholar
-                  </a>
-                </span>
-              </div>
+
               <div>
                 <img
                   className="inline w-6"
