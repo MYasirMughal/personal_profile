@@ -111,54 +111,48 @@ const Home: NextPage = () => {
             <h1 className="pt-8 pb-4 text-3xl font-light">Education</h1>
           </div>
 
-          {/* Ph.D. */}
-          <div className="md: pl-4 text-left sm:pl-4 sm:text-left lg:pr-4 lg:text-right">
-            <p className="py-4 text-xs font-light">Aug. 2018 - Present</p>
-          </div>
+          {/* BS Software Engineering */}
+          
           <div className="col-span-4 px-4">
-            <h3 className="pt-3 pb-1 text-base">Ph.D. in Computer Science</h3>
+            <h3 className="pt-3 pb-1 text-base">BS (Software Engineering)</h3>
             <h4 className="text-base font-light">
-              Arizona State University, Tempe, AZ{' '}
+              Virtual University of Pakistan{' '}
             </h4>
             <p className="text-sm font-light">
-              <span className="text-gray-400">GPA:</span> 3.69 / 4.0
+              <span className="text-gray-400"> Projected CGPA:</span> 3.4 / 4.0
             </p>
-            <p className="text-sm font-light">
-              <span className="text-gray-400">Advisor:</span> Ross Maciejewski
-            </p>
-            <p className="text-sm font-light">
-              <span className="text-gray-400">Dissertation:</span> Explaining
-              Vulnerabilities in Machine Learning through Visual Analytics
-            </p>
-            <p className="text-sm font-light">
-              <span className="text-gray-400">Committee:</span> Ross
-              Maciejewski, Huan Liu, Chris Bryan, and Hanghang Tong
-            </p>
+
+            <div className="md: pl-4 text-left sm:pl-4 sm:text-left lg:pr-4 lg:text-right">
+              <p className="py-4 text-xs font-light">Oct. 2023 - Present</p>
+            </div>
           </div>
 
-          {/* M.S. */}
-          <div className="md: pl-4 text-left sm:pl-4 sm:text-left lg:pr-4 lg:text-right">
+          {/* B.COM */}
+          
+          <div className="col-span-4 px-4">
+            <h3 className="pt-3 pb-1 text-base ">B.Com (Accounting & Finance)</h3>
+            <h4 className="text-base font-light">
+              Karachi University, Pakistan{' '}
+            </h4>
+            <p className="text-sm font-light">
+              <span className="text-gray-400">Division:</span> 2nd Division
+            </p>
+
+   <div className="md: pl-4 text-left sm:pl-4 sm:text-left lg:pr-4 lg:text-right">
             <p className="py-4 text-xs font-light">Aug. 2015 - May 2017</p>
-          </div>
-          <div className="col-span-4 px-4">
-            <h3 className="pt-3 pb-1 text-base ">M.S. in Computer Science</h3>
-            <h4 className="text-base font-light">
-              Steven Institute of Technology, Hoboken, NJ{' '}
-            </h4>
-            <p className="text-sm font-light">
-              <span className="text-gray-400">GPA:</span> 3.77 / 4.0
-            </p>
+          </div>         
           </div>
 
-          {/* B.S. */}
-          <div className="md: pl-4 text-left sm:pl-4 sm:text-left lg:pr-4 lg:text-right">
-            <p className="py-4 text-xs font-light">Sep. 2011 - July 2015</p>
+          {/* I.COM */}
           </div>
           <div className="col-span-4 px-4">
-            <h3 className="pt-3 pb-1 text-base ">B.S. in Computer Science</h3>
+            <h3 className="pt-3 pb-1 text-base ">I.Com (Accounting & Finance)</h3>
             <h4 className="text-base font-light">
-              Beijing Forestry University, Beijing, China{' '}
+            Hope Intermediate College, Pakistan{' '}
             </h4>
+<div className="md: pl-4 text-left sm:pl-4 sm:text-left lg:pr-4 lg:text-right">
+            <p className="py-4 text-xs font-light">Sep. 2011 - July 2015</p>
+            
           </div>
 
           {/* Experience Section */}
