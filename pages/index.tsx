@@ -5,7 +5,7 @@ const Home: NextPage = () => {
   return (
     <div className="flex justify-center py-4 ">
       <Head>
-        <title>Tiankai Xie</title>
+        <title>M Yasir Mughal</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
@@ -36,10 +36,10 @@ const Home: NextPage = () => {
               Full Stack Developer
             </div>
             <p className="py-2 text-justify font-light text-gray-600">
-              I am currently a Ph.D. candidate in computer science at{' '}
-              <a href="https://www.asu.edu/" className="text-sky-700">
+              I am currently a BS Software Engineering Student at{' '}
+              <a href="https://www.edu.edu.pk/" className="text-sky-700">
                 {' '}
-                Arizona State University
+                Virtual University of Pakistan
               </a>
               . My research is to increase the transparency and interpretability
               of machine learning models by designing and developing interactive
