@@ -37,7 +37,7 @@ const Home: NextPage = () => {
             </div>
             <p className="py-2 text-justify font-light text-gray-600">
               I am currently a BS Software Engineering Student at{' '}
-              <a href="https://www.edu.edu.pk/" className="text-sky-700">
+              <a href="https://www.vu.edu.pk/" className="text-sky-700">
                 {' '}
                 Virtual University of Pakistan
               </a>
