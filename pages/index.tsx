@@ -54,9 +54,9 @@ const Home: NextPage = () => {
                 <span className="pl-1">
                   <a
                     className="text-sm font-light text-sky-700"
-                    href="https://github.com/tiankaixie"
+                    href="https://github.com/myasirmughal"
                   >
-                    @tiankaixie
+                    @myasirmughal
                   </a>
                 </span>
               </div>
