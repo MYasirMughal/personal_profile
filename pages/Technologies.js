@@ -15,9 +15,7 @@ const Technologies = () => {
           <Image src="/Logos/c++.svg" alt="C++ language" height={50} width={50} />
           <Image src="/Logos/python.svg" alt="Python" height={50} width={50} />
           <Image src="/Logos/bash.svg" alt="Bash" height={50} width={50} />
-          <Image src="/Logos/Batch.png" alt="Batch" height={50} width={50} />
-          <Image src="/Logos/PowerShell.png" alt="PowerShell" height={50} width={50} />
-          <Image src="/Logos/Solidity.png" alt="Solidity" height={50} width={50} />
+
         </div>
       </section>
 
@@ -36,7 +34,7 @@ const Technologies = () => {
         <h3 className="text-xl mt-4">CSS Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
           <Image src="/Logos/boostrap.svg" alt="BootstrapCSS" height={50} width={50} />
-          <Image src="/Logos/TailwindCSS.png" alt="TailwindCSS" height={50} width={50} />
+          
         </div>
       </section>
 
