@@ -173,8 +173,7 @@ const Home: NextPage = () => {
     <div className="container mx-auto">
       <Technologies />
     </div>
-  );
-}
+
 
 
 
