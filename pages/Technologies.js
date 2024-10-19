@@ -22,8 +22,9 @@ const Technologies = () => {
       <section>
 
 <h1 className="pt-8 pb-4 text-3xl font-light">Web Development</h1>
+
         
-        <h3 className="text-xl">Front-End</h3>
+        <h1 className="pt-8 pb-4 text-3xl font-light">Front-End</h1>
         <div className="flex flex-wrap space-x-4 space-y-2">
           <Image src="/Logos/html.svg" alt="HTML" height={50} width={50} />
           <Image src="/Logos/css.svg" alt="CSS" height={50} width={50} />
@@ -47,7 +48,7 @@ const Technologies = () => {
         </div>
            <h3 className="text-xl mt-4">Data Fetching Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
-          <Image src="/Logos/boostrap.svg" alt="Axios" height={50} width={50} />
+          <Image src="/Logos/axios.svg" alt="Axios" height={50} width={50} />
         </div>
  <h3 className="text-xl mt-4">Headless CMS Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
@@ -55,15 +56,15 @@ const Technologies = () => {
         </div>
            <h3 className="text-xl mt-4">Form Handling Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
-          <Image src="/Logos/boostrap.svg" alt="Formspree" height={50} width={50} />
+          <Image src="/Logos/Formspree.png" alt="Formspree" height={50} width={50} />
         </div>
           <h3 className="text-xl mt-4">UI Components Libraries</h3>
           <div className="flex flex-wrap space-x-4 space-y-2">
-            <Image src="/Logos/boostrap.svg" alt="TypeWriter" height={50} width={50} />
+            <Image src="/Logos/RTE.png" alt="TypeWriter" height={50} width={50} />
           </div>
  <h3 className="text-xl mt-4">Motion Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
-          <Image src="/Logos/boostrap.svg" alt="Framer Motion" height={50} width={50} />
+          <Image src="/Logos/Framer-Motion.svg" alt="Framer Motion" height={50} width={50} />
 
           
         </div>
