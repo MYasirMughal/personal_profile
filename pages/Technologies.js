@@ -34,6 +34,37 @@ const Technologies = () => {
         <h3 className="text-xl mt-4">CSS Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
           <Image src="/Logos/boostrap.svg" alt="BootstrapCSS" height={50} width={50} />
+        </div>
+
+        <h3 className="text-xl mt-4">Tailwind CSS Components Libraries</h3>
+        <div className="flex flex-wrap space-x-4 space-y-2">
+          <Image src="/Logos/boostrap.svg" alt="Shadcn" height={50} width={50} />
+        </div>
+        
+ <h3 className="text-xl mt-4">State Management Libraries</h3>
+        <div className="flex flex-wrap space-x-4 space-y-2">
+          <Image src="/Logos/boostrap.svg" alt="Redux" height={50} width={50} />
+        </div>
+           <h3 className="text-xl mt-4">Data Fetching Libraries</h3>
+        <div className="flex flex-wrap space-x-4 space-y-2">
+          <Image src="/Logos/boostrap.svg" alt="Axios" height={50} width={50} />
+        </div>
+ <h3 className="text-xl mt-4">Headless CMS Libraries</h3>
+        <div className="flex flex-wrap space-x-4 space-y-2">
+          <Image src="/Logos/boostrap.svg" alt="Sanity.io" height={50} width={50} />
+        </div>
+           <h3 className="text-xl mt-4">Form Handling Libraries</h3>
+        <div className="flex flex-wrap space-x-4 space-y-2">
+          <Image src="/Logos/boostrap.svg" alt="Formspree" height={50} width={50} />
+        </div>
+          <h3 className="text-xl mt-4">UI Components Libraries</h3>
+          <div className="flex flex-wrap space-x-4 space-y-2">
+            <Image src="/Logos/boostrap.svg" alt="TypeWriter" height={50} width={50} />
+          </div>
+ <h3 className="text-xl mt-4">Motion Libraries</h3>
+        <div className="flex flex-wrap space-x-4 space-y-2">
+          <Image src="/Logos/boostrap.svg" alt="Framer Motion" height={50} width={50} />
+
           
         </div>
       </section>
