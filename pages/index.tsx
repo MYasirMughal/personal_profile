@@ -1,5 +1,8 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
+// pages/index.js
+import Technologies from './Technologies';
+
 
 const Home: NextPage = () => {
   return (
@@ -166,6 +169,12 @@ const Home: NextPage = () => {
  {/* Programming */}
 
 
+
+    <div className="container mx-auto">
+      <Technologies />
+    </div>
+  );
+}
 
 
 
