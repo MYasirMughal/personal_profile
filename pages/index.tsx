@@ -2,7 +2,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 // pages/index.js
 import Technologies from './Technologies';
-
+import Badges from './Badges';
 
 const Home: NextPage = () => {
   return (
@@ -174,6 +174,11 @@ const Home: NextPage = () => {
       <Technologies />
     </div>
 
+            {/* Badges */}
+            
+<div className="container mx-auto">
+      <Badges />
+    </div>
 
 
 
