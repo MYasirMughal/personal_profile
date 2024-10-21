@@ -72,7 +72,8 @@ const Badges = () => {
          </div>
 
          <div className="mr-[5px]">          
-          <Image src="/Badges/CHB.png" alt="Computer Hardware Basics" height={140} width={140} />
+         <a href="https://www.credly.com/badges/4daf9745-4bb8-47fb-a4a4-47f9f559de44">
+ <Image src="/Badges/CHB.png" alt="Computer Hardware Basics" height={140} width={140} /></a>
          </div>
       <div className="mr-[5px]">   
           <Image src="/Badges/OSB.png" alt="Operting System Basics" height={140} width={140} />
