@@ -64,7 +64,8 @@ const Technologies = () => {
           </div>
  <h3 className="text-xl mt-4">Motion Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
-          <Image src="/Logos/Framer-Motion.svg" alt="Framer Motion" height={50} width={50} />
+         <a href="https://www.framer.com/motion/">
+ <Image src="/Logos/Framer-Motion.svg" alt="Framer Motion" height={50} width={50} /></a>
 
           
         </div>
