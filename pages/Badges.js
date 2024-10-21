@@ -11,7 +11,8 @@ const Badges = () => {
         <div className="flex flex-wrap space-x-2 space-y-2">
          
           <div className="mr-[5px]">  
-          <Image src="/Badges/AWS-SAA.png" alt="AWS Solution Architect" height={140} width={140} />
+      <a href="https://www.credly.com/badges/cf1c9713-c8a1-422e-84cd-b81d3a363e05">
+<Image src="/Badges/AWS-SAA.png" alt="AWS Solution Architect" height={140} width={140} /></a>
           </div>
 
 <div className="mr-[5px]">
