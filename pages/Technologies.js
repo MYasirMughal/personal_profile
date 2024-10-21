@@ -48,7 +48,8 @@ const Technologies = () => {
         </div>
            <h3 className="text-xl mt-4">Data Fetching Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
-          <Image src="/Logos/axios.svg" alt="Axios" height={50} width={50} />
+         <a href="https://axios-http.com/">
+ <Image src="/Logos/axios.svg" alt="Axios" height={50} width={50} /></a>
         </div>
  <h3 className="text-xl mt-4">Headless CMS Libraries</h3>
         <div className="flex flex-wrap space-x-4 space-y-2">
