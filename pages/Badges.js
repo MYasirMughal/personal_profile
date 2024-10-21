@@ -21,7 +21,8 @@ const Badges = () => {
 </div>
 
 <div className="mr-[5px]">
-            <Image src="/Badges/CCNA-SRWE.png" alt="CCNA SRWE" height={140} width={140} />
+         <a href="https://www.credly.com/badges/ebf52b02-4e26-45ee-a1b7-c649de9102e4">
+ <Image src="/Badges/CCNA-SRWE.png" alt="CCNA SRWE" height={140} width={140} /></a>
 </div>
 <div className="mr-[5px]">
             <Image src="/Badges/CCNA-ITN.png" alt="CCNA ITN" height={140} width={140} />
